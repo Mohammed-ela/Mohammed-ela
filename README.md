@@ -54,5 +54,6 @@
 </p>
 <h3 align="left">Support:</h3>
 <p align="left">
-  <a href="https://www.buymeacoffee.com/Mohammed-ela" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60"></a>
+  <a href="https://www.paypal.com/paypalme/mohammedela212" target="_blank"><img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/PP_logo_h_150x38.png" alt="PayPal" width="150" height="38"></a>
 </p>
+
