@@ -36,3 +36,8 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></a>
   <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="Xamarin" width="40" height="40"/></a>
 </p>
+<h3 align="left">Git Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-ela&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-ela&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
