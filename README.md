@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm El Amrani Mohammed</h1>
 <h3 align="center">A passionate web developer from Paris, France</h3>
 
-    📫 How to reach me: elamrani.mohammed95@gmail.com
-
+📫 How to reach me: elamrani.mohammed95@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/myinstramdevbientot" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
@@ -40,4 +39,20 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-ela&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-ela&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+<h3 align="left">Profile Views:</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Mohammed-ela&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+<h3 align="left">Streak Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohammed-ela&theme=radical" alt="GitHub Streak Stats" />
+</p>
+<h3 align="left">Trophies:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mohammed-ela&theme=radical&no-bg=true&row=1" alt="GitHub Trophies" />
+</p>
+<h3 align="left">Support:</h3>
+<p align="left">
+  <a href="https://www.buymeacoffee.com/Mohammed-ela" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60"></a>
 </p>
